@@ -11,7 +11,7 @@ mkdir HelloGKD && cd HelloGKD
 ```
 touch HelloGKD.cc
 ```
-使用命令行编辑器vi尽行代码编辑（当然，我们非常推荐你使用VSCode或者Clion）
+使用命令行编辑器`vi`进行代码编辑（当然，我们非常推荐你使用VSCode或者Clion）
 ```
 vi HelloGKD.cc
 ```
@@ -27,7 +27,7 @@ int main() {
 
 当然你也可以复制完上面的代码后，在normal模式使用`<ctrl> + <shift> + v`进行粘贴，然后保存退出
 
-此时，你应当已经返回命令行中了，使用g++编译它并生成二进制文件
+此时，你应当已经返回命令行中了，使用g++编译生成二进制文件
 ```
 g++ HelloGKD.cc -o sayhello
 ```
