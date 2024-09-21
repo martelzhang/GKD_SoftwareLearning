@@ -14,31 +14,10 @@
 + 强烈建议使用VSCode、Clion作为你们的开发环境
 + 安装配置git、ssh、gcc、cmake
 
-当你配置完这些后，就可以编译我们的代码了！
+当你配置完这些后，就基本可以开始工作了！
 
-+ 首先打开Terminal
-+ 你可以选择在home目录创建一个文件夹作为你的工作空间（当然也可以是任何你想的位置）
+首先打开Terminal，你可以选择在home目录创建一个文件夹作为你的工作空间（当然也可以是任何你想的位置），后面我们所有的工作都会在这个文件夹中进行。
 ```
 mkdir ~/GKD_WorkSpace
 ```
-+ 进入工作空间文件夹
-```
-cd ~/GKD_WorkSpace
-```
-+ 接着，你可以使用ssh来clone我们的仓库到本地
-```
-git clone git@github.com:zzLinus/NeoRMControl_OneForALL.git
-```
-+ 进入本地代码仓库
-```
-cd NeoRMControl_OneForALL
-```
-+ 创建一个文件夹用来存放我们编译出来的文件，并进入这个文件夹
-```
-mkdir build && cd build
-```
-+ 在此文件夹内执行编译指令
-```
-cmake .. && make -j8
-```
-+ 如果顺利的话，你可以得到
++ [第一个程序 HelloGKD](./LearningExample/g++example.md)
