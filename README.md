@@ -16,8 +16,20 @@
 
 当你配置完这些后，就基本可以开始工作了！
 
-首先打开Terminal，你可以选择在home目录创建一个文件夹作为你的工作空间（当然也可以是任何你想的位置），后面我们所有的工作都会在这个文件夹中进行。
+首先打开Terminal，你可以选择在home目录创建一个文件夹作为你的工作空间，后面我们所有的工作都会在这个文件夹中进行
 ```
 mkdir ~/GKD_WorkSpace
 ```
 + [第一个程序 HelloGKD](./LearningExample/g++example.md)
++ [编译我们的代码](./LearningExample/BuildOurRMRepo.md)
+
+## 学习c/c++
++ 有不错的编程基础，你可以直接学习c++
++ 如果你刚开始接触编程可以先学c语言（***但请注意，请不要按照学校的教学进度进行学习，否则你将无法快速融入GKD！***）
++ 实在不知道看哪一个c++教程，我们（其实只有zzm）向你推荐[这个教程](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+
+## 导航or自瞄
+可以根据你的兴趣进行选择学习导航或自瞄
+### 导航
+### 自瞄
+To be continued ...
