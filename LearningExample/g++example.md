@@ -11,7 +11,7 @@ mkdir HelloGKD && cd HelloGKD
 ```
 touch HelloGKD.cc
 ```
-使用命令行编辑器vi尽行代码编辑（当然，你可以使用VSCode或者Clion）
+使用命令行编辑器vi尽行代码编辑（当然，我们非常推荐你使用VSCode或者Clion）
 ```
 vi HelloGKD.cc
 ```
@@ -35,7 +35,7 @@ g++ HelloGKD.cc -o sayhello
 ```
 ./sayhello
 ```
-现在你应该已经看到打印出来的内容了。我们可以将这个文件夹删掉了
+现在你应该已经看到打印出来的内容了,我们可以将这个文件夹删掉了
 ```
 rm -rf ~/GKD_WorkSpace/HelloGKD
 ```
