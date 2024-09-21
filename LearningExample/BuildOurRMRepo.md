@@ -19,5 +19,5 @@ mkdir build && cd build
 ```
 cmake .. && make -j8
 ```
-如果顺利的话，你可以得到
+使用命令查看当前文件夹下的
 
