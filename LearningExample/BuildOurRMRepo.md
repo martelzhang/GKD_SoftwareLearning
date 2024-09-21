@@ -19,5 +19,5 @@ mkdir build && cd build
 ```
 cmake .. && make -j8
 ```
-使用命令查看当前文件夹下的
+
 

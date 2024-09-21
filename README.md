@@ -1,5 +1,6 @@
 # GKD_SoftwareLearning
-
+![gkdlogo](./Images/LOGO.jpg)
+### 欢迎大家加入GKD大家庭！本仓库用于GKD软件组学习，以下是我们推荐的学习路径
 ## 安装Linux
 + 安装Ubuntu22.04，可以去bilibili搜索教程。***建议安装物理双系统，不要使用虚拟机***
 
