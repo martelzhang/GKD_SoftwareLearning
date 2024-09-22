@@ -1,6 +1,10 @@
 # GKD_SoftwareLearning
 ![gkdlogo](./Images/LOGO.jpg)
 ### 欢迎大家加入GKD大家庭！本仓库用于GKD软件组学习，以下是我们推荐的学习路径
+
+## 我该如何提问
++ 请仔细阅读[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)跟[别像弱智一样提问](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)，遇到问题先尝试自己解决（当然，遇到无法解决的问题，也非常欢迎你们来提问，但请不要问在网络上可以轻易搜索到结果的问题）
+
 ## 安装Linux
 + 安装Ubuntu24.04，可以去bilibili搜索教程。***建议安装物理双系统，不要使用虚拟机***
 
@@ -8,7 +12,6 @@
 + 安装配置科学上网软件，需要能正常访问使用 [Google](https://google.com/)、[ChatGPT](https://chat.openai.com/)、[Github](https://github.com) 等网络服务
 + 更换你的搜索引擎，***不要使用Baidu！会很影响你的搜索效率！！！*** 建议使用Bing、Google
 + 不会的内容可以先[ChatGPT](https://chat.openai.com/)，但不要完全相信
-+ 注册[Github](https://github.com)，请仔细阅读[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)跟[别像弱智一样提问](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)
 + [这里是我们的代码仓库](https://github.com/zzLinus/NeoRMControl_OneForALL)，记得给我们一个star，这可以让你们更快找到我们的仓库（求你了，给个star吧）
 
 ## 配置环境
