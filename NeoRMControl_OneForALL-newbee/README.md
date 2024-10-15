@@ -3,7 +3,7 @@
 # GKD 电视一体电控部分代码
 - 本项目是为哨兵开发的电视一体代码的衍生泛用版本。
 
-  ![logo](img/logo.png)
+  ![logo](../Images/LOGO.jpg)
 
 ## Documentation
 [doc](doc/doc.md "doc")
